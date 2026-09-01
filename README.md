@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Néstor. I am a junior Data Analyst.
+My name is Néstor. I am a Data Analyst.
 
 _Here you'll find projects related to my work as a Data Analyst._ 
 
